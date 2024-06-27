@@ -9,6 +9,7 @@
 
 <h3 align="center">-: 𝕬 𝖕𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝖆𝖗𝖙𝖎𝖋𝖎𝖈𝖎𝖆𝖑 𝖎𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 𝖋𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆 :-</h3>
 
+
 - 🔭 I’m currently working on [Lisa Chatbot - Virtual Assistant](https://github.com/satyamshorrf/Lisa-Chatbot-Virtual-Assistant)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
@@ -20,18 +21,15 @@
 - ⚡ Fun fact **I think I am funny**
 
 
-
-
 <h2 align="center">
  
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" height="200">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
+    <img src="https://github.com/satyamshorrf/satyamshorrf/assets/160311244/2d5e3164-cfec-4194-9a77-472a4c1408c8" alt = "Coder GIF" width="250" height ="200">
  
-   
-<img src="https://github.com/satyamshorrf/satyamshorrf/assets/160311244/2d5e3164-cfec-4194-9a77-472a4c1408c8" alt = "Coder GIF" width="230" height ="200">
-
-
 </h2> 
+
+
 
 
 
@@ -66,6 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=satyamshorrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamshorrf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
 
 
 
