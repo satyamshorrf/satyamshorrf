@@ -25,10 +25,10 @@
 <h2 align="center">
  
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="470" height="450">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="230" height="200">
  
    
-<img src="https://github.com/satyamshorrf/satyamshorrf/assets/160311244/2d5e3164-cfec-4194-9a77-472a4c1408c8" alt = "Coder GIF" width="430" height ="450">
+<img src="https://github.com/satyamshorrf/satyamshorrf/assets/160311244/2d5e3164-cfec-4194-9a77-472a4c1408c8" alt = "Coder GIF" width="230" height ="200">
 
 
 </h2> 
