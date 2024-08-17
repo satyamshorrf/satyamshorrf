@@ -93,6 +93,43 @@
 
 
 
+<!--- github stats --->
+
+
+<h2 align="center">
+
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=satyamshorrf&theme=dark&hide_border=false) <h2/>
+
+<!--- activity graph --->
+
+# ⚡Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamshorrf&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- top contributed repo --->
+
+# 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=satyamshorrf&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!---  profile views and trophies --->
+
+# Trophies 🏆:
+
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=00pratik-biswas00&label=Profile%20views&color=0e75b6&style=flat" alt="00pratik-biswas00" /> </p> --->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=00pratik-biswas00" alt="00pratik-biswas00" /></a> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--- socials --->
+
+
+
+
 
 
 
