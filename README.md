@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
   
-- 👨‍💻 Personal portfolio: **<a href="https://juhinagpure.netlify.app" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://3-d-portfolio-q88x-git-master-satyam-shorrfs-projects.vercel.app/" target="_blank">Portfolio</a>**
   
 - 👯 I’m looking to collaborate on [TPC Madhepura](https://github.com/satyamshorrf/TPC-Madhepura-)
 
