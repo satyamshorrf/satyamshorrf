@@ -4,33 +4,35 @@
 
 
 
-
-
-
 <h3 align="center">-: 𝕬 𝖕𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝖆𝖗𝖙𝖎𝖋𝖎𝖈𝖎𝖆𝖑 𝖎𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 𝖋𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆 :-</h3>
 
 
+
+- 🔭 I’m always working on **improving my skills**
+  
 - 🔭 I’m currently working on [Lisa Chatbot - Virtual Assistant](https://github.com/satyamshorrf/Lisa-Chatbot-Virtual-Assistant)
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+  <div align="center">
+<img src="https://media2.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif?cid=ecf05e47d5w7aa1b03fha1jxftw71z0mg83j9iguw1pt6cwd&rid=giphy.gif&ct=g" align="right" style="width: 80%" />
+</div>  
 
+- 🌱 I’m currently learning **Artificial Intelligence**
+  
+- 👨‍💻 Personal portfolio: **<a href="https://juhinagpure.netlify.app" target="_blank">Portfolio</a>**
+  
 - 👯 I’m looking to collaborate on [TPC Madhepura](https://github.com/satyamshorrf/TPC-Madhepura-)
 
 - 🤝 I’m looking for help with [Amazon](https://github.com/satyamshorrf/Amazon)
-
+  
+- 💬 Ask me about **Web, FrontEnd**
+  
 - ⚡ Fun fact **I think I am funny**
+
+- ❓ "Please ask me anything related to full-stack technologies."
+
   
 
-
-
-
-
-
-
-
-
-
-
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -96,14 +98,14 @@
 
 
 
-
 <h2 align="center">
  
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
-    <img src="https://github.com/satyamshorrf/satyamshorrf/assets/160311244/2d5e3164-cfec-4194-9a77-472a4c1408c8" alt = "Coder GIF" width="250" height ="200">
+    <img src="https://github.com/user-attachments/assets/12a66942-8449-45f2-b734-f1a980b34119" alt="Coder GIF">
+
  
 </h2> 
+
 
 
 
@@ -111,10 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=satyamshorrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamshorrf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
-
 
 
 
