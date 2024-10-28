@@ -108,7 +108,6 @@
 
 
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamshorrf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamshorrf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -128,7 +127,7 @@
 
 # ⚡Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamshorrf&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamshorrf&bg_color=000000&color=ffffff&line=00ffff&point=00a89d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -143,15 +142,9 @@
 
 # Trophies 🏆:
 
-<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=00pratik-biswas00&label=Profile%20views&color=0e75b6&style=flat" alt="00pratik-biswas00" /> </p> --->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=00pratik-biswas00" alt="00pratik-biswas00" /></a> </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--- socials --->
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamshorrf" alt="satyamshorrf" /></a> </p>
 
 
 
