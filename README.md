@@ -122,7 +122,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
-<p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" width="30%" height="30%"/></p>
+<!-- <p><img align="right" src="https://github.com/dreamboat999/dreamboat999/blob/master/animation_500_kxa883sd.gif" alt="dreamboat999" width="30%" height="30%"/></p> -->
 
 ### Testing
 
@@ -144,11 +144,11 @@
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-003B5C?style=for-the-badge&logo=Code::Blocks&logoColor=white)
 ![Turbo C](https://img.shields.io/badge/Turbo_C-3B3B3B?style=for-the-badge&logo=Turbo-C&logoColor=white)
 
-### 💻 OS
+<!-- ### 💻 OS
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<br/>
+<br/> -->
 
 
 <h2 align="center">
