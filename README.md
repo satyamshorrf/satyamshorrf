@@ -1,5 +1,5 @@
 # 💫 About Me:
- 𝐇𝐄𝐋𝐋𝐎 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - 𝚂 𝙰 𝚃 𝚈 𝙰𝙼 - I am an AI & Full Stack Web Developer. 😎
+ 𝐇𝐄𝐋𝐋𝐎 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - 𝚂 𝙰 𝚃 𝚈 𝙰𝙼 - I am 🇮🇦‌🇮‌ & 🇫‌🇺‌🇱‌🇱‌ 🇸‌🇹‌🇦‌🇨‌🇰‌ 🇼‌🇪‌🇧‌ 🇩‌🇪‌🇻‌🇪‌🇱‌🇴‌🇵‌🇪‌🇷‌. 😎
 
 👨‍💻 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐧𝐠 𝐭𝐨 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐡𝐚𝐯𝐞 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐭𝐨 𝐬𝐞𝐯𝐞𝐫𝐚𝐥 𝐥𝐚𝐫𝐠𝐞 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐌𝐚𝐭𝐞𝐫𝐢𝐚𝐥 𝐔𝐈, 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭, 𝐀𝐦𝐚𝐳𝐨𝐧, 𝐖𝐞𝐛𝐡𝐢𝐧𝐭, 𝐚𝐧𝐝 𝐜𝐨𝐮𝐧𝐭𝐥𝐞𝐬𝐬 𝐨𝐭𝐡𝐞𝐫𝐬. 𝐈 𝐚𝐦 𝐫𝐞𝐚𝐥𝐥𝐲 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐚𝐛𝐨𝐮𝐭 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. 𝐈𝐧 𝟐𝟎𝟐𝟎, 𝐈 𝐥𝐞𝐚𝐫𝐧𝐞𝐝 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬𝐢𝐯𝐞 𝐖𝐞𝐛 𝐀𝐩𝐩𝐬 (𝐏𝐖𝐀), 𝐆𝐫𝐚𝐩𝐡𝐐𝐋, 𝐌𝐢𝐜𝐫𝐨-𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞, 𝐚𝐧𝐝 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐃𝐀𝐩𝐩𝐬. <br>
 
@@ -52,15 +52,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/ruby-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![c#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52B0?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Front-End Development
 
@@ -111,6 +117,8 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 
@@ -118,25 +126,29 @@
 
 ### Testing
 
-![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hoppscotch](https://img.shields.io/badge/Hoppscotch-3E8E41?style=for-the-badge&logo=hoppscotch&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
-![i7-9th-gen](https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![i5-12th-gen](https://img.shields.io/badge/Intel-Core_i5_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![gtx-1650](https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-4E8C2A?style=for-the-badge&logo=Cursor&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-1B1B1B?style=for-the-badge&logo=LM_Studio&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-003B5C?style=for-the-badge&logo=Code::Blocks&logoColor=white)
+![Turbo C](https://img.shields.io/badge/Turbo_C-3B3B3B?style=for-the-badge&logo=Turbo-C&logoColor=white)
 
 ### 💻 OS
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
-
-
-
 
 
 <h2 align="center">
