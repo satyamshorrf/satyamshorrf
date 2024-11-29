@@ -49,13 +49,13 @@
 <a href="https://leetcode.com/u/satyamshorrf/" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Leetcode.svg"
+    src="https://github.com/user-attachments/assets/954ee915-8de1-4ba7-a388-b77cc1d26e29"
     alt="satyamshorrf"
     height="30"
     width="40"
   />
 </a>
-<a href="https://codepen.io/satyamshorrf" target="_blank" rel="noopener noreferrer">
+<a href="https://codepen.io/satyamshorrf" target="_blank" rel="noopener noreferre">
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
@@ -235,6 +235,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamshorrf" alt="satyamshorrf" /></a> </p>
+
 
 
 
