@@ -67,7 +67,7 @@
 <a href="https://dev.to/satyamshorrf" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.to.svg"
+    src="https://github.com/user-attachments/assets/1459d181-3770-4449-8270-925997be3b1c"
     alt="satyamshorrf"
     height="30"
     width="40"
@@ -76,7 +76,7 @@
 <a href="https://medium.com/@satyamshorrf" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+    src="https://github.com/user-attachments/assets/ae282cbb-2595-4b54-9287-a7a54030d764"
     alt="satyamshorrf"
     height="30"
     width="40"
@@ -235,6 +235,33 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamshorrf" alt="satyamshorrf" /></a> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
