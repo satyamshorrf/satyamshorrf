@@ -46,10 +46,37 @@
 <a href="https://stackoverflow.com/users/23591575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23591575" height="30" width="40" /></a>
 <a href="https://instagram.com/satyamshorrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamshorrf" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/satyamshorrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satyamshorrf" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/satyamshorrf/" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Leetcode.svg"
+    alt="satyamshorrf"
+    height="30"
+    width="40"
+  />
+</a>
 <a href="https://codepen.io/satyamshorrf" target="_blank" rel="noopener noreferrer">
   <img
     align="center"
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+    alt="satyamshorrf"
+    height="30"
+    width="40"
+  />
+</a>
+<a href="https://dev.to/satyamshorrf" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.to.svg"
+    alt="satyamshorrf"
+    height="30"
+    width="40"
+  />
+</a>
+<a href="https://medium.com/@satyamshorrf" target="_blank" rel="noopener noreferrer">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
     alt="satyamshorrf"
     height="30"
     width="40"
