@@ -15,7 +15,7 @@
 
 - 🔭 I’m always working on **improving my skills**
   
-- 🔭 I’m currently working on [Lisa Chatbot - Virtual Assistant](https://github.com/satyamshorrf/Lisa-Chatbot-Virtual-Assistant)
+- 🔭 I’m currently working on [Lisa Chatbot - Virtual Assistant](https://satyamshorrf.github.io/Lisa-Chatbot-Virtual-Assistant/)
 
   <div align="center">
 <img src="https://media2.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif?cid=ecf05e47d5w7aa1b03fha1jxftw71z0mg83j9iguw1pt6cwd&rid=giphy.gif&ct=g" align="right" style="width: 80%" />
@@ -25,9 +25,9 @@
   
 - 👨‍💻 Personal portfolio: **<a href="https://3-d-portfolio-q88x-git-master-satyam-shorrfs-projects.vercel.app/" target="_blank">Portfolio</a>**
   
-- 👯 I’m looking to collaborate on [TPC Madhepura](https://github.com/satyamshorrf/TPC-Madhepura-)
+- 👯 I’m looking to collaborate on [TPC Madhepura](https://tpc-madhepura.vercel.app)
 
-- 🤝 I’m looking for help with [Amazon](https://github.com/satyamshorrf/Amazon)
+- 🤝 I’m looking for help with [Amazon](https://satyamshorrf.github.io/Amazon/)
   
 - 💬 Ask me about **Web, FrontEnd**
   
