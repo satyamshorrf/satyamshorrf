@@ -21,7 +21,7 @@
 <img src="https://media2.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif?cid=ecf05e47d5w7aa1b03fha1jxftw71z0mg83j9iguw1pt6cwd&rid=giphy.gif&ct=g" align="right" style="width: 80%" />
 </div>  
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning [Click Me](https://mycurrentlyworking.vercel.app)
   
 - 👨‍💻 Personal portfolio: **<a href="https://3-d-portfolio-q88x-git-master-satyam-shorrfs-projects.vercel.app/" target="_blank">Portfolio</a>**
   
