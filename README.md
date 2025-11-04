@@ -1,8 +1,20 @@
 # 💫 About Me:
  𝐇𝐄𝐋𝐋𝐎 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - 𝚂 𝙰 𝚃 𝚈 𝙰𝙼 - I am 🇮🇦‌🇮‌ & 🇫‌🇺‌🇱‌🇱‌ 🇸‌🇹‌🇦‌🇨‌🇰‌ 🇼‌🇪‌🇧‌ 🇩‌🇪‌🇻‌🇪‌🇱‌🇴‌🇵‌🇪‌🇷‌. 😎
 
-👋 𝐇𝐞𝐥𝐥𝐨! 𝐈'𝐦 𝐒𝐚𝐭𝐲𝐚𝐦 𝐒𝐡𝐨𝐫𝐫𝐟, 𝐚𝐧 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐩𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐢𝐭𝐡 𝐚 𝐮𝐧𝐢𝐪𝐮𝐞 𝐛𝐥𝐞𝐧𝐝 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐛𝐨𝐭𝐡 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠. 𝐈 𝐡𝐨𝐥𝐝 𝐚 𝐃𝐢𝐩𝐥𝐨𝐦𝐚 𝐢𝐧 𝐌𝐞𝐜𝐡𝐚𝐧𝐢𝐜𝐚𝐥 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐚𝐧𝐝 𝐚𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐩𝐮𝐫𝐬𝐮𝐢𝐧𝐠 𝐚 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫 𝐨𝐟 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 (𝐁𝐂𝐀) 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐚𝐜𝐚𝐝𝐞𝐦𝐢𝐜 𝐫𝐞𝐜𝐨𝐫𝐝. 𝐈'𝐦 𝐬𝐤𝐢𝐥𝐥𝐞𝐝 𝐢𝐧 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐦𝐨𝐛𝐢𝐥𝐞 𝐚𝐩𝐩 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐜𝐥𝐨𝐮𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐥𝐢𝐤𝐞 𝐀𝐖𝐒.  𝐈'𝐦 𝐝𝐞𝐞𝐩𝐥𝐲 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐀𝐈, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠, 𝐎𝐩𝐞𝐧𝐂𝐕, 𝐑𝐨𝐛𝐨𝐭𝐢𝐜𝐬, 𝐚𝐧𝐝 𝐃𝐫𝐨𝐧𝐞 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐈 𝐞𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞𝐬𝐞 𝐟𝐢𝐞𝐥𝐝𝐬 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐢𝐧 𝐦𝐲 𝐝𝐚𝐢𝐥𝐲 𝐥𝐢𝐟𝐞. 𝐖𝐢𝐭𝐡 𝐚 𝐦𝐮𝐥𝐭𝐢𝐝𝐢𝐬𝐜𝐢𝐩𝐥𝐢𝐧𝐚𝐫𝐲 𝐦𝐢𝐧𝐝𝐬𝐞𝐭 𝐚𝐧𝐝 𝐡𝐚𝐧𝐝𝐬-𝐨𝐧 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞, 𝐈’𝐦 𝐟𝐨𝐜𝐮𝐬𝐞𝐝 𝐨𝐧 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝, 𝐢𝐦𝐩𝐚𝐜𝐭𝐟𝐮𝐥 𝐭𝐞𝐜𝐡 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐡𝐚𝐭 𝐛𝐫𝐢𝐝𝐠𝐞 𝐭𝐡𝐞 𝐠𝐚𝐩 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐬𝐲𝐬𝐭𝐞𝐦𝐬.
+👋 𝐈'𝐦 **Satyam Shorrf**, an engineering professional with a unique blend of expertise in **Mechanical** and **Software Engineering**.  
+I hold a **Diploma in Mechanical Engineering** and am currently pursuing a **Bachelor of Computer Applications (BCA)** with a strong academic record.  
+
+I’m passionate about merging **Software Engineering, AI/ML, and Robotics** with real-world hardware like **drones** and **autonomous systems**.  
+With hands-on experience in **drone programming (Python, OpenCV, ROS)**, I’ve built projects in **surveillance**, **face tracking**, and **autonomous navigation**.  
+
+🚀 Actively participating in **hackathons**, I focus on **frontend challenges** and **AI Agent projects** that enhance my rapid prototyping and innovation skills. 
 <!-- 🎓 I specialize in React, Next.js, Node.js, AI, web3, and Blockchain skills. -->
+
+
+ 
+
+---
+
 
 
 
@@ -10,29 +22,34 @@
 
 <h3 align="center">-: 𝕬 𝖕𝖆𝖘𝖘𝖎𝖔𝖓𝖆𝖙𝖊 𝖆𝖗𝖙𝖎𝖋𝖎𝖈𝖎𝖆𝖑 𝖎𝖓𝖙𝖊𝖑𝖑𝖎𝖌𝖊𝖓𝖈𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 𝖋𝖗𝖔𝖒 𝕴𝖓𝖉𝖎𝖆 :-</h3>
 
-
-
 - 🔭 I’m always working on **improving my skills**
-  
-- 🔭 I’m currently working on [Lisa Chatbot - Virtual Assistant](https://satyamshorrf.github.io/Lisa-Chatbot-Virtual-Assistant/)
+
+- 💡 Currently working as a **Software Engineer**, **Drone Engineer**, and **Robotics Engineer**
+
+- 🤖 Project Spotlight: [Lisa Chatbot - Virtual Assistant](https://satyamshorrf.github.io/Lisa-Chatbot-Virtual-Assistant/)
 
   <div align="center">
-<img src="https://media2.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif?cid=ecf05e47d5w7aa1b03fha1jxftw71z0mg83j9iguw1pt6cwd&rid=giphy.gif&ct=g" align="right" style="width: 80%" />
-</div>  
+  <img src="https://media2.giphy.com/media/MDyJRC9jrpKVUS9gWN/giphy.gif?cid=ecf05e47d5w7aa1b03fha1jxftw71z0mg83j9iguw1pt6cwd&rid=giphy.gif&ct=g" align="right" style="width: 80%" />
+  </div>  
 
 - 🌱 I’m currently learning [Click Me](https://mycurrentlyworking.vercel.app)
   
-- 👨‍💻 Personal portfolio: **<a href="https://3-d-portfolio-q88x-git-master-satyam-shorrfs-projects.vercel.app/" target="_blank">Portfolio</a>**
-  
+- 👨‍💻 **Personal Portfolios:**
+  - 🎨 [3D Interactive Portfolio](https://3-d-portfolio-lilac-xi.vercel.app/)
+  - 🌿 [Digital Garden Portfolio](https://satyamshorrf-game.vercel.app)
+  - 🎮 [Simple Portfolio](https://satyam-shorrf-06b1bkz.gamma.site)
+    
+
 - 👯 I’m looking to collaborate on [TPC Madhepura](https://tpc-madhepura.vercel.app)
 
-- 🤝 I’m looking for help with [Amazon](https://satyamshorrf.github.io/Amazon/)
+- 🤝 I’m looking for help with [Amazon Clone](https://satyamshorrf.github.io/Amazon/)
   
-- 💬 Ask me about **Web, FrontEnd**
+- 💬 Ask me about **Web Development, Frontend, AI/ML, Drones, and Robotics**
   
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact — **I think I’m funny 😄**
 
-- ❓ "Please ask me anything related to full-stack technologies."
+- ❓ *Please ask me anything related to Full-Stack, AI Agents, or Autonomous Systems!*
+
 
   
 
@@ -85,6 +102,15 @@
 </p>
 
 
+## ⚡ Key Skills  
+
+### 🛰️ Drone & Robotics  
+- **Drone Programming:** Autonomous Navigation, Face Tracking  
+- **Drone Development:** DJI Tello, Parrot AR.Drone, Custom Build Platforms  
+- **Drone Applications:** Surveillance, Delivery, Aerial Photography  
+- **Autonomous Systems:** Path Planning, SLAM, Computer Vision  
+- **Humanoid Robotics:** ROS, OpenCV, Intelligent Agents  
+- **Robotics & IoT:** Arduino, Sensors, Actuators, Embedded Systems  
 
 <h3 align="left">Languages and Tools:</h3>
 
