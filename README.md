@@ -268,6 +268,28 @@ With hands-on experience in **drone programming (Python, OpenCV, ROS)**, I’ve 
 
 
 
+<!-- GitHub Summary -->
+<h3 align="center">📊 GitHub Summary</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamshorrf&theme=github_dark" alt="GitHub Profile Summary" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamshorrf&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyamshorrf&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyamshorrf&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=satyamshorrf&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<!-- Footer -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+
 
 
 
